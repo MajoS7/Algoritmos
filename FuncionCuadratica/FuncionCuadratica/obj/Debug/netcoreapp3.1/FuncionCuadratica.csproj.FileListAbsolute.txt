@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\bin\Debug\netcoreapp3.1\FuncionCuadratica.exe
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\bin\Debug\netcoreapp3.1\FuncionCuadratica.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\bin\Debug\netcoreapp3.1\FuncionCuadratica.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\bin\Debug\netcoreapp3.1\FuncionCuadratica.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\bin\Debug\netcoreapp3.1\FuncionCuadratica.dll
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\bin\Debug\netcoreapp3.1\FuncionCuadratica.pdb
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\obj\Debug\netcoreapp3.1\FuncionCuadratica.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\obj\Debug\netcoreapp3.1\FuncionCuadratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\obj\Debug\netcoreapp3.1\FuncionCuadratica.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\obj\Debug\netcoreapp3.1\FuncionCuadratica.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\obj\Debug\netcoreapp3.1\FuncionCuadratica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\obj\Debug\netcoreapp3.1\FuncionCuadratica.dll
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\obj\Debug\netcoreapp3.1\FuncionCuadratica.pdb
+C:\Users\USUARIO WINDOWS\source\repos\FuncionCuadratica\FuncionCuadratica\obj\Debug\netcoreapp3.1\FuncionCuadratica.genruntimeconfig.cache

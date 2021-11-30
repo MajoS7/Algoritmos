@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\bin\Debug\netcoreapp3.1\Multiplos5.exe
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\bin\Debug\netcoreapp3.1\Multiplos5.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\bin\Debug\netcoreapp3.1\Multiplos5.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\bin\Debug\netcoreapp3.1\Multiplos5.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\bin\Debug\netcoreapp3.1\Multiplos5.dll
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\bin\Debug\netcoreapp3.1\Multiplos5.pdb
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\obj\Debug\netcoreapp3.1\Multiplos5.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\obj\Debug\netcoreapp3.1\Multiplos5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\obj\Debug\netcoreapp3.1\Multiplos5.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\obj\Debug\netcoreapp3.1\Multiplos5.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\obj\Debug\netcoreapp3.1\Multiplos5.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\obj\Debug\netcoreapp3.1\Multiplos5.dll
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\obj\Debug\netcoreapp3.1\Multiplos5.pdb
+C:\Users\USUARIO WINDOWS\source\repos\Multiplos5\Multiplos5\obj\Debug\netcoreapp3.1\Multiplos5.genruntimeconfig.cache

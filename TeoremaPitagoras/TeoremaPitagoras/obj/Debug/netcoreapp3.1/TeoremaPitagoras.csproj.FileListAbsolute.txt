@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\netcoreapp3.1\TeoremaPitagoras.exe
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\netcoreapp3.1\TeoremaPitagoras.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\netcoreapp3.1\TeoremaPitagoras.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\netcoreapp3.1\TeoremaPitagoras.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\netcoreapp3.1\TeoremaPitagoras.dll
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\netcoreapp3.1\TeoremaPitagoras.pdb
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\netcoreapp3.1\TeoremaPitagoras.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\netcoreapp3.1\TeoremaPitagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\netcoreapp3.1\TeoremaPitagoras.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\netcoreapp3.1\TeoremaPitagoras.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\netcoreapp3.1\TeoremaPitagoras.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\netcoreapp3.1\TeoremaPitagoras.dll
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\netcoreapp3.1\TeoremaPitagoras.pdb
+C:\Users\USUARIO WINDOWS\source\repos\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\netcoreapp3.1\TeoremaPitagoras.genruntimeconfig.cache

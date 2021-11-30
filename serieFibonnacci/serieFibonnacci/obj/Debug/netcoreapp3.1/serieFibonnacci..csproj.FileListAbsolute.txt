@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\bin\Debug\netcoreapp3.1\serieFibonnacci..exe
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\bin\Debug\netcoreapp3.1\serieFibonnacci..deps.json
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\bin\Debug\netcoreapp3.1\serieFibonnacci..runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\bin\Debug\netcoreapp3.1\serieFibonnacci..runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\bin\Debug\netcoreapp3.1\serieFibonnacci..dll
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\bin\Debug\netcoreapp3.1\serieFibonnacci..pdb
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\obj\Debug\netcoreapp3.1\serieFibonnacci..csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\obj\Debug\netcoreapp3.1\serieFibonnacci..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\obj\Debug\netcoreapp3.1\serieFibonnacci..AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\obj\Debug\netcoreapp3.1\serieFibonnacci..AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\obj\Debug\netcoreapp3.1\serieFibonnacci..csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\obj\Debug\netcoreapp3.1\serieFibonnacci..dll
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\obj\Debug\netcoreapp3.1\serieFibonnacci..pdb
+C:\Users\USUARIO WINDOWS\source\repos\serieFibonnacci\serieFibonnacci\obj\Debug\netcoreapp3.1\serieFibonnacci..genruntimeconfig.cache

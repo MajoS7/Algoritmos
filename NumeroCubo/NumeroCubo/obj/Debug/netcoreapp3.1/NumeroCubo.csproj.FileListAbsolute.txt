@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\bin\Debug\netcoreapp3.1\NumeroCubo.exe
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\bin\Debug\netcoreapp3.1\NumeroCubo.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\bin\Debug\netcoreapp3.1\NumeroCubo.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\bin\Debug\netcoreapp3.1\NumeroCubo.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\bin\Debug\netcoreapp3.1\NumeroCubo.dll
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\bin\Debug\netcoreapp3.1\NumeroCubo.pdb
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\obj\Debug\netcoreapp3.1\NumeroCubo.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\obj\Debug\netcoreapp3.1\NumeroCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\obj\Debug\netcoreapp3.1\NumeroCubo.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\obj\Debug\netcoreapp3.1\NumeroCubo.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\obj\Debug\netcoreapp3.1\NumeroCubo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\obj\Debug\netcoreapp3.1\NumeroCubo.dll
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\obj\Debug\netcoreapp3.1\NumeroCubo.pdb
+C:\Users\USUARIO WINDOWS\source\repos\NumeroCubo\NumeroCubo\obj\Debug\netcoreapp3.1\NumeroCubo.genruntimeconfig.cache

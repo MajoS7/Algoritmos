@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\bin\Debug\netcoreapp3.1\NumeroMayor.exe
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\bin\Debug\netcoreapp3.1\NumeroMayor.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\bin\Debug\netcoreapp3.1\NumeroMayor.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\bin\Debug\netcoreapp3.1\NumeroMayor.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\bin\Debug\netcoreapp3.1\NumeroMayor.dll
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\bin\Debug\netcoreapp3.1\NumeroMayor.pdb
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\obj\Debug\netcoreapp3.1\NumeroMayor.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\obj\Debug\netcoreapp3.1\NumeroMayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\obj\Debug\netcoreapp3.1\NumeroMayor.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\obj\Debug\netcoreapp3.1\NumeroMayor.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\obj\Debug\netcoreapp3.1\NumeroMayor.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\obj\Debug\netcoreapp3.1\NumeroMayor.dll
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\obj\Debug\netcoreapp3.1\NumeroMayor.pdb
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayor\NumeroMayor\obj\Debug\netcoreapp3.1\NumeroMayor.genruntimeconfig.cache

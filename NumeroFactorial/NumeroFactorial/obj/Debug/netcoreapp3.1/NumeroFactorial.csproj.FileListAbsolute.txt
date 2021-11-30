@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\obj\Debug\netcoreapp3.1\NumeroFactorial.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\obj\Debug\netcoreapp3.1\NumeroFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\obj\Debug\netcoreapp3.1\NumeroFactorial.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\obj\Debug\netcoreapp3.1\NumeroFactorial.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\obj\Debug\netcoreapp3.1\NumeroFactorial.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\bin\Debug\netcoreapp3.1\NumeroFactorial.exe
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\bin\Debug\netcoreapp3.1\NumeroFactorial.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\bin\Debug\netcoreapp3.1\NumeroFactorial.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\bin\Debug\netcoreapp3.1\NumeroFactorial.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\bin\Debug\netcoreapp3.1\NumeroFactorial.dll
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\bin\Debug\netcoreapp3.1\NumeroFactorial.pdb
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\obj\Debug\netcoreapp3.1\NumeroFactorial.dll
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\obj\Debug\netcoreapp3.1\NumeroFactorial.pdb
+C:\Users\USUARIO WINDOWS\source\repos\NumeroFactorial\NumeroFactorial\obj\Debug\netcoreapp3.1\NumeroFactorial.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\bin\Debug\netcoreapp3.1\Multiplicacion3numeros.exe
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\bin\Debug\netcoreapp3.1\Multiplicacion3numeros.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\bin\Debug\netcoreapp3.1\Multiplicacion3numeros.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\bin\Debug\netcoreapp3.1\Multiplicacion3numeros.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\bin\Debug\netcoreapp3.1\Multiplicacion3numeros.dll
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\bin\Debug\netcoreapp3.1\Multiplicacion3numeros.pdb
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\obj\Debug\netcoreapp3.1\Multiplicacion3numeros.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\obj\Debug\netcoreapp3.1\Multiplicacion3numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\obj\Debug\netcoreapp3.1\Multiplicacion3numeros.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\obj\Debug\netcoreapp3.1\Multiplicacion3numeros.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\obj\Debug\netcoreapp3.1\Multiplicacion3numeros.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\obj\Debug\netcoreapp3.1\Multiplicacion3numeros.dll
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\obj\Debug\netcoreapp3.1\Multiplicacion3numeros.pdb
+C:\Users\USUARIO WINDOWS\source\repos\Multiplicacion3numeros\Multiplicacion3numeros\obj\Debug\netcoreapp3.1\Multiplicacion3numeros.genruntimeconfig.cache

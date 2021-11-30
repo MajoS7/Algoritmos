@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\bin\Debug\netcoreapp3.1\PromedioNotas.exe
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\bin\Debug\netcoreapp3.1\PromedioNotas.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\bin\Debug\netcoreapp3.1\PromedioNotas.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\bin\Debug\netcoreapp3.1\PromedioNotas.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\bin\Debug\netcoreapp3.1\PromedioNotas.dll
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\bin\Debug\netcoreapp3.1\PromedioNotas.pdb
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\obj\Debug\netcoreapp3.1\PromedioNotas.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\obj\Debug\netcoreapp3.1\PromedioNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\obj\Debug\netcoreapp3.1\PromedioNotas.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\obj\Debug\netcoreapp3.1\PromedioNotas.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\obj\Debug\netcoreapp3.1\PromedioNotas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\obj\Debug\netcoreapp3.1\PromedioNotas.dll
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\obj\Debug\netcoreapp3.1\PromedioNotas.pdb
+C:\Users\USUARIO WINDOWS\source\repos\PromedioNotas\PromedioNotas\obj\Debug\netcoreapp3.1\PromedioNotas.genruntimeconfig.cache
