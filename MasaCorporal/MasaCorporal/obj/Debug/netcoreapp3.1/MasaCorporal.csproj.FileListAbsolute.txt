@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\bin\Debug\netcoreapp3.1\MasaCorporal.exe
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\bin\Debug\netcoreapp3.1\MasaCorporal.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\bin\Debug\netcoreapp3.1\MasaCorporal.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\bin\Debug\netcoreapp3.1\MasaCorporal.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\bin\Debug\netcoreapp3.1\MasaCorporal.dll
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\bin\Debug\netcoreapp3.1\MasaCorporal.pdb
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\obj\Debug\netcoreapp3.1\MasaCorporal.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\obj\Debug\netcoreapp3.1\MasaCorporal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\obj\Debug\netcoreapp3.1\MasaCorporal.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\obj\Debug\netcoreapp3.1\MasaCorporal.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\obj\Debug\netcoreapp3.1\MasaCorporal.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\obj\Debug\netcoreapp3.1\MasaCorporal.dll
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\obj\Debug\netcoreapp3.1\MasaCorporal.pdb
+C:\Users\USUARIO WINDOWS\source\repos\MasaCorporal\MasaCorporal\obj\Debug\netcoreapp3.1\MasaCorporal.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\bin\Debug\netcoreapp3.1\Suma2Numeros.exe
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\bin\Debug\netcoreapp3.1\Suma2Numeros.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\bin\Debug\netcoreapp3.1\Suma2Numeros.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\bin\Debug\netcoreapp3.1\Suma2Numeros.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\bin\Debug\netcoreapp3.1\Suma2Numeros.dll
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\bin\Debug\netcoreapp3.1\Suma2Numeros.pdb
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\obj\Debug\netcoreapp3.1\Suma2Numeros.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\obj\Debug\netcoreapp3.1\Suma2Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\obj\Debug\netcoreapp3.1\Suma2Numeros.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\obj\Debug\netcoreapp3.1\Suma2Numeros.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\obj\Debug\netcoreapp3.1\Suma2Numeros.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\obj\Debug\netcoreapp3.1\Suma2Numeros.dll
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\obj\Debug\netcoreapp3.1\Suma2Numeros.pdb
+C:\Users\USUARIO WINDOWS\source\repos\Suma2Numeros\Suma2Numeros\obj\Debug\netcoreapp3.1\Suma2Numeros.genruntimeconfig.cache

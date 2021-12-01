@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\bin\Debug\netcoreapp3.1\Algoritmo.exe
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\bin\Debug\netcoreapp3.1\Algoritmo.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\bin\Debug\netcoreapp3.1\Algoritmo.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\bin\Debug\netcoreapp3.1\Algoritmo.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\bin\Debug\netcoreapp3.1\Algoritmo.dll
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\bin\Debug\netcoreapp3.1\Algoritmo.pdb
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\obj\Debug\netcoreapp3.1\Algoritmo.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\obj\Debug\netcoreapp3.1\Algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\obj\Debug\netcoreapp3.1\Algoritmo.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\obj\Debug\netcoreapp3.1\Algoritmo.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\obj\Debug\netcoreapp3.1\Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\obj\Debug\netcoreapp3.1\Algoritmo.dll
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\obj\Debug\netcoreapp3.1\Algoritmo.pdb
+C:\Users\USUARIO WINDOWS\source\repos\Algoritmo\Algoritmo\obj\Debug\netcoreapp3.1\Algoritmo.genruntimeconfig.cache

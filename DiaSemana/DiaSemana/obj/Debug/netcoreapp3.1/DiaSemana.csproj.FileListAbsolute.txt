@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.exe
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.dll
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\bin\Debug\netcoreapp3.1\DiaSemana.pdb
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.dll
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.pdb
+C:\Users\USUARIO WINDOWS\source\repos\DiaSemana\DiaSemana\obj\Debug\netcoreapp3.1\DiaSemana.genruntimeconfig.cache

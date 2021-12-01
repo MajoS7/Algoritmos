@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Suma2Numeros/1.0.0": {
+        "runtime": {
+          "Suma2Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Suma2Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

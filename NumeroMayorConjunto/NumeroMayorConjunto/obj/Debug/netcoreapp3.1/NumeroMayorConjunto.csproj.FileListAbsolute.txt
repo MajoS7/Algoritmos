@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\bin\Debug\netcoreapp3.1\NumeroMayorConjunto.exe
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\bin\Debug\netcoreapp3.1\NumeroMayorConjunto.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\bin\Debug\netcoreapp3.1\NumeroMayorConjunto.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\bin\Debug\netcoreapp3.1\NumeroMayorConjunto.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\bin\Debug\netcoreapp3.1\NumeroMayorConjunto.dll
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\bin\Debug\netcoreapp3.1\NumeroMayorConjunto.pdb
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\obj\Debug\netcoreapp3.1\NumeroMayorConjunto.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\obj\Debug\netcoreapp3.1\NumeroMayorConjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\obj\Debug\netcoreapp3.1\NumeroMayorConjunto.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\obj\Debug\netcoreapp3.1\NumeroMayorConjunto.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\obj\Debug\netcoreapp3.1\NumeroMayorConjunto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\obj\Debug\netcoreapp3.1\NumeroMayorConjunto.dll
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\obj\Debug\netcoreapp3.1\NumeroMayorConjunto.pdb
+C:\Users\USUARIO WINDOWS\source\repos\NumeroMayorConjunto\NumeroMayorConjunto\obj\Debug\netcoreapp3.1\NumeroMayorConjunto.genruntimeconfig.cache

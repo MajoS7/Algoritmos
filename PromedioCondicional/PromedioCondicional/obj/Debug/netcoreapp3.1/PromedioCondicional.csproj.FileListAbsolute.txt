@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\bin\Debug\netcoreapp3.1\PromedioCondicional.exe
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\bin\Debug\netcoreapp3.1\PromedioCondicional.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\bin\Debug\netcoreapp3.1\PromedioCondicional.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\bin\Debug\netcoreapp3.1\PromedioCondicional.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\bin\Debug\netcoreapp3.1\PromedioCondicional.dll
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\bin\Debug\netcoreapp3.1\PromedioCondicional.pdb
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\obj\Debug\netcoreapp3.1\PromedioCondicional.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\obj\Debug\netcoreapp3.1\PromedioCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\obj\Debug\netcoreapp3.1\PromedioCondicional.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\obj\Debug\netcoreapp3.1\PromedioCondicional.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\obj\Debug\netcoreapp3.1\PromedioCondicional.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\obj\Debug\netcoreapp3.1\PromedioCondicional.dll
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\obj\Debug\netcoreapp3.1\PromedioCondicional.pdb
+C:\Users\USUARIO WINDOWS\source\repos\PromedioCondicional\PromedioCondicional\obj\Debug\netcoreapp3.1\PromedioCondicional.genruntimeconfig.cache

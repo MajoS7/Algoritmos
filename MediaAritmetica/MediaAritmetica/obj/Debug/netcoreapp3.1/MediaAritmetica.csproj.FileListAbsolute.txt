@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.exe
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.dll
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.pdb
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.dll
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.pdb
+C:\Users\USUARIO WINDOWS\source\repos\MediaAritmetica\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.genruntimeconfig.cache

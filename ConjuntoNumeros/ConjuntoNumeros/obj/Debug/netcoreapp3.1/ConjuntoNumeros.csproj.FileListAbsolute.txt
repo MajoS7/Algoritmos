@@ -1,0 +1,14 @@
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\bin\Debug\netcoreapp3.1\ConjuntoNumeros.exe
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\bin\Debug\netcoreapp3.1\ConjuntoNumeros.deps.json
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\bin\Debug\netcoreapp3.1\ConjuntoNumeros.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\bin\Debug\netcoreapp3.1\ConjuntoNumeros.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\bin\Debug\netcoreapp3.1\ConjuntoNumeros.dll
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\bin\Debug\netcoreapp3.1\ConjuntoNumeros.pdb
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\obj\Debug\netcoreapp3.1\ConjuntoNumeros.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\obj\Debug\netcoreapp3.1\ConjuntoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\obj\Debug\netcoreapp3.1\ConjuntoNumeros.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\obj\Debug\netcoreapp3.1\ConjuntoNumeros.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\obj\Debug\netcoreapp3.1\ConjuntoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\obj\Debug\netcoreapp3.1\ConjuntoNumeros.dll
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\obj\Debug\netcoreapp3.1\ConjuntoNumeros.pdb
+C:\Users\USUARIO WINDOWS\source\repos\ConjuntoNumeros\ConjuntoNumeros\obj\Debug\netcoreapp3.1\ConjuntoNumeros.genruntimeconfig.cache
