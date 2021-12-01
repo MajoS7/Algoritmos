@@ -1,0 +1,13 @@
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\bin\Debug\netcoreapp3.1\ConversionDecimal.exe
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\bin\Debug\netcoreapp3.1\ConversionDecimal.deps.json
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\bin\Debug\netcoreapp3.1\ConversionDecimal.runtimeconfig.json
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\bin\Debug\netcoreapp3.1\ConversionDecimal.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\bin\Debug\netcoreapp3.1\ConversionDecimal.dll
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\bin\Debug\netcoreapp3.1\ConversionDecimal.pdb
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\obj\Debug\netcoreapp3.1\ConversionDecimal.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\obj\Debug\netcoreapp3.1\ConversionDecimal.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\obj\Debug\netcoreapp3.1\ConversionDecimal.AssemblyInfo.cs
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\obj\Debug\netcoreapp3.1\ConversionDecimal.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\obj\Debug\netcoreapp3.1\ConversionDecimal.dll
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\obj\Debug\netcoreapp3.1\ConversionDecimal.pdb
+C:\Users\SENA\source\repos\ConversionDecimal\ConversionDecimal\obj\Debug\netcoreapp3.1\ConversionDecimal.genruntimeconfig.cache
